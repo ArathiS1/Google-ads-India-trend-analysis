@@ -7,8 +7,8 @@
 
 A comprehensive time series analysis project examining the evolution of Google Ads search interest in India from 2004 to 2025, providing actionable business intelligence and strategic recommendations for digital marketing stakeholders.
 
-![Business Analytical Plot](https://i.imgur.com/5I3xrQo.png)
 
+<img src="Assests/Business Analysis & Forecast.png" alt="Sales Insights Dashboard" width="800"/> 
 
 ## ❓ Problem Statement
 
