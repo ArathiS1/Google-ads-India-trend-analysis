@@ -63,4 +63,3 @@ The analysis successfully identified the key drivers of search interest and prod
 - Develop an interactive Shiny dashboard to allow users to explore the data and forecasts themselves.
 
 ---
-*This project was created as part of a data analytics portfolio. The analysis and recommendations are based on publicly available Google Trends data.*
